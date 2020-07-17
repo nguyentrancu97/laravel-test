@@ -6,6 +6,6 @@ class TestRespository implements testRespositoryInterface {
 
     //override
     public function getData(){
-        return 'get data succaaess blog 1';
+        return 'get data succaaess blog 12';
     }
 }
